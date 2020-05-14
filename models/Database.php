@@ -3,7 +3,7 @@
 class Database {
     public static $db_name = 'todo_list';
     public static $db_user = 'ty';
-    public static $db_pass = 'Soon2b100';
+    public static $db_pass = '';
     public static $db_host = 'localhost';
     public static $db;
     public static function connect() {
